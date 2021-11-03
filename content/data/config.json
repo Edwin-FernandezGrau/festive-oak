@@ -1,0 +1,75 @@
+{
+    "title": "BLID",
+    "path_prefix": "/",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "BLID",
+        "profile_img_alt": "Author avatar",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "INICIO",
+                "url": "/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "ACERCA DE",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "CONTACTO",
+                "url": "/style-guide",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/Ed_FernandezG",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/blid.io/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "TELEGRAM",
+                "url": "https://t.me/blid_io",
+                "style": "link",
+                "icon_class": "instagram",
+                "new_window": true,
+                "no_follow": true
+            },
+            {
+                "label": "TIK TOK",
+                "url": "https://tiktok.com/@blid.io",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": true,
+                "no_follow": false
+            }
+        ],
+        "profile_img": "/images/blif-3413c7a7.jpg",
+        "tagline": "Business ¦ Leadership ¦ Innovation ¦ Digitization"
+    },
+    "footer": {
+        "content": "&copy;BLID. All rights reserved.dt"
+    },
+    "domain": "https://blid-092cb.netlify.app",
+    "favicon": "/images/blif-0461dded.jpg"
+}
