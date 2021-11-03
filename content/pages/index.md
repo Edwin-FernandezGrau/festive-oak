@@ -16,7 +16,7 @@ sections:
       crecimiento.
     actions:
       - label: CONVERSEMOS
-        url: /contact
+        url: /style-guide
         style: button
     title: ACERCA DE
 seo:
