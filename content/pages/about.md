@@ -31,7 +31,7 @@ seo:
 layout: page
 subtitle: Una breve página sobre la persona detrás de BLID
 ---
-**Edwin Fernández** es Consultor Actuarial, Graduado de Economía y Desarrollo por la UPC y con Especialización en Blockchain por el MIT Professional Education y Certificado en Data Analytics por Google.
+**Edwin Fernández** es Consultor Actuarial, Graduado de Economía y Desarrollo por la UPC, con Especialización en Blockchain por el MIT Professional Education y Certificado en Data Analytics por Google.
 
 En el ámbito laboral, se ha desempeñado como Consultor Actuarial en distintas compañias de seguros en el Perú. Cuenta con experiencia en tarificación de productos de seguros y el cálculo de reservas de los mismos.  Adicionalmente, es Profesor Asistente en la Facultad de Economía de la UPC y Docente de Ciencias Actuariales en ADVANCED RISK SERVICES.
 
