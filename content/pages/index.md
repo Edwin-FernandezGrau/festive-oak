@@ -19,7 +19,7 @@ sections:
         url: /style-guide
         style: button
     title: ACERCA DE
-  - title: BLOG
+  - title: POSTS RECIENTES
     section_id: recent-posts
     posts_number: 2
     actions: []
