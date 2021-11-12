@@ -2,9 +2,7 @@
 title: El mito de los 110 años
 excerpt: >-
   Se tiene la creencia que las AFP's y empresas aseguradoras calculan las
-  pensiones asumiendo que los ciudadanos vivirán hasta los 110 años. La
-  confusión se debe a que la tabla de mortalidad muestra la probabilidad de
-  estar vivo a cada una de las edades llegando hasta 110.
+  pensiones asumiendo que los ciudadanos vivirán hasta los 110 años.
 date: '2020-05-04'
 thumb_img_path: /images/01.png
 thumb_img_alt: 110 AÑOS
