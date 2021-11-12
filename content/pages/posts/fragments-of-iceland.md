@@ -8,7 +8,7 @@ date: '2020-05-04'
 thumb_img_path: /images/01.png
 thumb_img_alt: 110 AÑOS
 content_img_path: /images/01-14732a25.png
-content_img_alt: Icelandic horses
+content_img_alt: 110 años
 seo:
   title: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
