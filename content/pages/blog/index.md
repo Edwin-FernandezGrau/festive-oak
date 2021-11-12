@@ -14,7 +14,7 @@ seo:
       value: Acceso al blog de BLID
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: /images/blogsapis.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
