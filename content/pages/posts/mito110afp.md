@@ -10,7 +10,11 @@ seo:
   title: El mito de los 110
   description: Análisis sobres la tabla de mortalidad utilizada para calcular pensiones
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/01-a03904e5.png
+      keyName: property
+      relativeUrl: true
 layout: post
 thumb_img_path: /images/01-6a205be7.png
 content_img_path: /images/01-2d2b637a.png
