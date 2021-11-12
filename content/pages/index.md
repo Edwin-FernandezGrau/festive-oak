@@ -22,7 +22,13 @@ sections:
   - title: POSTS RECIENTES
     section_id: recent-posts
     posts_number: 2
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
     type: section_posts
 seo:
   title: BLID
