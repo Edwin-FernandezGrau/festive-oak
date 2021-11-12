@@ -4,7 +4,9 @@ subtitle: lorem-ipsum
 date: '2021-11-12'
 thumb_img_alt: mito-110
 content_img_alt: mito-110
-excerpt: lorem-ipsum
+excerpt: >-
+  Se tiene la creencia que las AFP's y empresas aseguradoras calculan las  
+  pensiones asumiendo que los ciudadanos vivirán hasta los 110 años.
 seo:
   title: ''
   description: ''
