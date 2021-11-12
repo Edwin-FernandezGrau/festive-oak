@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: Blog
-  description: This is the blog page
+  description: Acceso al blog de BLID
   extra:
     - name: 'og:type'
       value: website
