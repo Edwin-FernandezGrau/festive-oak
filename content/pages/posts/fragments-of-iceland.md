@@ -6,7 +6,7 @@ excerpt: >-
   making it the most sparsely populated country in Europe.
 date: '2020-05-04'
 thumb_img_path: /images/01.png
-thumb_img_alt: Icelandic horses
+thumb_img_alt: 110 AÑOS
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
 seo:
