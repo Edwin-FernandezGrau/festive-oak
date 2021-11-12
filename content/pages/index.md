@@ -24,6 +24,7 @@ sections:
     posts_number: 1
     actions: []
     type: section_posts
+    
 seo:
   title: BLID
   description: Cultura Digital
