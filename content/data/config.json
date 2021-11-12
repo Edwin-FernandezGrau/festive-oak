@@ -12,10 +12,7 @@
             {
                 "label": "INICIO",
                 "url": "/",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
+                "style": "link"
             },
             {
                 "label": "ACERCA DE",
