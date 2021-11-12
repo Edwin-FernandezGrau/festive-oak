@@ -21,11 +21,11 @@ content_img_path: /images/01-e3293f2c.png
 
 Entonces, ¿cómo se calculan las pensiones? Consideremos un hombre de 65 años, no invalido y sin beneficiarios de pensión, con S/.150,000 de ahorro previsional. Según el mito, los S/.150,000 se dividen en partes iguales hasta los 110 años, de tal forma que se tendría una pensión de S/.271.7 mensuales (150 mil dividido entre 552 meses).
 
-\*\*\*
+***
 
 ![](/images/02-1bf6566a.png)
 
-\*\*\*
+***
 
 **La realidad es que teniendo en cuenta las probabilidades de vida de la tabla de mortalidad, un hombre de 65 años tiene una expectativa de vida promedio de 23.25** **años.** Por lo tanto, los S/.150,000 se dividen entre 279 meses (23.25 \*12 meses), lo que es equivalente a una pensión de S/.537.7 mensuales.
 
