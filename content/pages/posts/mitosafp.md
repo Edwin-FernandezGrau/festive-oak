@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/01-cd7ee1df.png
 ---
 ## Lorem ipsum
 
