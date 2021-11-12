@@ -15,6 +15,10 @@ seo:
       value: /images/01-a03904e5.png
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: Análisis sobre la tabla de mortalidad utilizada para calcular pensiones
+      keyName: property
+      relativeUrl: false
 layout: post
 thumb_img_path: /images/01-6a205be7.png
 content_img_path: /images/01-2d2b637a.png
