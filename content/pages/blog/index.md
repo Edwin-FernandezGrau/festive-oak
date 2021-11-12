@@ -11,7 +11,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Acceso al blog de BLID
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
