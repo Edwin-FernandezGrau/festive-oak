@@ -8,7 +8,7 @@ excerpt: >-
   pensiones asumiendo que los ciudadanos vivirán hasta los 110 años.
 seo:
   title: El mito de los 110
-  description: ''
+  description: Análisis sobres la tabla de mortalidad utilizada para calcular pensiones
   robots: []
   extra: []
 layout: post
