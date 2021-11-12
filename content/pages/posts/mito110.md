@@ -21,8 +21,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Se tiene la creencia que las AFP's y empresas aseguradoras calculan las
+  pensiones asumiendo que los ciudadanos vivirán hasta los 110 años
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
