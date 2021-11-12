@@ -7,7 +7,7 @@ excerpt: >-
   Se tiene la creencia que las AFP's y empresas aseguradoras calculan las  
   pensiones asumiendo que los ciudadanos vivirán hasta los 110 años.
 seo:
-  title: ''
+  title: El mito de los 110
   description: ''
   robots: []
   extra: []
