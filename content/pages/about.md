@@ -13,7 +13,7 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: La persona detrás de BLID
       keyName: property
     - name: 'og:image'
       value: /images/248775120_297005238934905_8207182154887814984_n-38ae7750.jpg
