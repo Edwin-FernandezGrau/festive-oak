@@ -11,9 +11,7 @@ seo:
       value: Conversemos
       keyName: property
     - name: 'og:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+      value: Nuestros canales de comunicación
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
