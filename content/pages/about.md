@@ -4,7 +4,7 @@ img_path: /images/248775120_297005238934905_8207182154887814984_n.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: Acerca de
-  description: Breve descripción sobre BLID
+  description: La
   extra:
     - name: 'og:type'
       value: website
