@@ -41,11 +41,11 @@ seo:
       relativeUrl: true
 layout: post
 ---
-**Se tiene la creencia que las AFP's y empresas aseguradoras calculan las pensiones asumiendo que los ciudadanos vivirán hasta los 110 años. **La confusión se debe a que la tabla de mortalidad muestra la probabilidad de estar vivo a cada una de las edades llegando hasta 110. A modo de ejemplo, la tabla estima que un hombre de 65 años tiene 99% de probabilidad de vivir al menos hasta los 66 años, 77% de vivir al menos hasta los 80 años, y apenas el 0.1% de probabilidad de vivir hasta los 110 años, es decir **1 de cada 1,000 hombres que hoy tienen 65 años podrían vivir hasta los 110**. Por lo tanto, al igual que no se espera que todos los pensionistas vivan hasta 110 años, sus ahorros previsionales tampoco serán divididos en partes iguales hasta alcanzar los 110 años de vida.
+**Se tiene la creencia que las AFP's y empresas aseguradoras calculan las pensiones asumiendo que los ciudadanos vivirán hasta los 110 años.** La confusión se debe a que la tabla de mortalidad muestra la probabilidad de estar vivo a cada una de las edades llegando hasta 110. A modo de ejemplo, la tabla estima que un hombre de 65 años tiene 99% de probabilidad de vivir al menos hasta los 66 años, 77% de vivir al menos hasta los 80 años, y apenas el 0.1% de probabilidad de vivir hasta los 110 años, es decir **1 de cada 1,000 hombres que hoy tienen 65 años podrían vivir hasta los 110**. Por lo tanto, al igual que no se espera que todos los pensionistas vivan hasta 110 años, sus ahorros previsionales tampoco serán divididos en partes iguales hasta alcanzar los 110 años de vida.
 
 Entonces, ¿cómo se calculan las pensiones? Consideremos un hombre de 65 años, no invalido y sin beneficiarios de pensión, con S/.150,000 de ahorro previsional. Según el mito, los S/.150,000 se dividen en partes iguales hasta los 110 años, de tal forma que se tendría una pensión de S/.271.7 mensuales (150 mil dividido entre 552 meses).
 
-![](/images/02.png)****
+![](/images/02.png)\*\*\*\*
 
 **La realidad es que teniendo en cuenta las probabilidades de vida de la tabla de mortalidad, un hombre de 65 años tiene una expectativa de vida promedio de 23.25** **años.** Por lo tanto, los S/.150,000 se dividen entre 279 meses (23.25 \*12 meses), lo que es equivalente a una pensión de S/.537.7 mensuales.
 
@@ -56,5 +56,3 @@ Sin embargo, **hay un segundo error en este conocido mito, no considera el valo
 ![](/images/04.png)
 
 En resumen, para el ejemplo analizado, el calculo de una pensión de jubilación bajo el mito de los 110 años y sin rentabilidad, implica recibir S/.493.5 menos de pensión cada mes. El mito te vende la idea que recibirás 271 soles mensuales de pensión cuando en realidad es 765 soles. Nótese que en apenas los 16 primeros años se habrá recibido en pensiones lo equivalente al monto que ahora se tiene ahorrado.
-
-
