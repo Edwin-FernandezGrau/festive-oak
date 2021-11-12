@@ -58,9 +58,7 @@ Sin embargo, **hay un segundo error en este conocido mito, no considera el valo
 
 En resumen, para el ejemplo analizado, el calculo de una pensión de jubilación bajo el mito de los 110 años y sin rentabilidad, implica recibir S/.493.5 menos de pensión cada mes. El mito te vende la idea que recibirás 271 soles mensuales de pensión cuando en realidad es 765 soles. Nótese que en apenas los 16 primeros años se habrá recibido en pensiones lo equivalente al monto que ahora se tiene ahorrado.
 
-\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\__\__\__\__\__\__\__\__\_*
-
-
+\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\__\__\__\__\__\__\__\__\__\__\__\__\__*
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
