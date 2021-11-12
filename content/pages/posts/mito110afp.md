@@ -3,7 +3,7 @@ title: El mito de los 110 años
 subtitle: lorem-ipsum
 date: '2021-11-12'
 thumb_img_alt: mito-110
-content_img_alt: mito
+content_img_alt: mito-110
 excerpt: lorem-ipsum
 seo:
   title: ''
