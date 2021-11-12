@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Acerca de
       keyName: property
     - name: 'og:description'
       value: La persona detrás de BLID
