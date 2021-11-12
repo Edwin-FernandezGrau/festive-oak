@@ -33,7 +33,7 @@ Entonces, ¿cómo se calculan las pensiones? Consideremos un hombre de 65 años
 
 ![](/images/03-b0099f94.png)
 
-\*\*\*
+***
 
 Sin embargo, **hay un segundo error en este conocido mito, no considera el valor del dinero en el tiempo, expresado en términos de la rentabilidad** **ofrecida por la AFP o empresa aseguradora.** El saldo ahorrado seguirá invirtiéndose y generando rentabilidad. Entonces, para ser justos con la comparación, se recalcula ambos modelos considerando una rentabilidad del 3%.
 
