@@ -22,7 +22,7 @@ seo:
 layout: post
 thumb_img_path: /images/01-6a205be7.png
 content_img_path: /images/01-2d2b637a.png
-subtitle: Análisis sobres la tabla de mortalidad utilizada para calcular pensiones.
+subtitle: Análisis sobre la tabla de mortalidad utilizada para calcular pensiones.
 ---
 **Se tiene la creencia que las AFP's y empresas aseguradoras calculan las pensiones asumiendo que los ciudadanos vivirán hasta los 110 años**. La confusión se  debe a que la tabla  de mortalidad  muestra la probabilidad de estar vivo a cada una de  las edades llegando hasta 110. A modo de ejemplo, la tabla estima que un hombre de 65 años tiene 99% de probabilidad de vivir al menos hasta los 66 años, 77% de vivir al menos hasta los 80 años,  y apenas el 0.1%  de probabilidad de vivir  hasta los 110 años, es decir  **1  de cada 1,000  hombres que hoy tienen  65  años podrían vivir hasta los 110.** Por lo tanto, al igual que no se espera que todos los pensionistas vivan hasta 110 años, sus ahorros previsionales tampoco serán divididos en partes iguales hasta alcanzar los 110 años de vida.
 
