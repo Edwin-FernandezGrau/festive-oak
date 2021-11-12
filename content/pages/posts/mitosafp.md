@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/01-cd7ee1df.png
+content_img_path: /images/01-e3293f2c.png
 ---
 ## Lorem ipsum
 
