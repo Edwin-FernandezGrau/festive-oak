@@ -27,7 +27,7 @@ Entonces, ¿cómo se calculan las pensiones? Consideremos un hombre de 65 años
 
 ***
 
-**La realidad es que teniendo en cuenta las probabilidades de vida de la tabla de mortalidad, un hombre de 65 años tiene una expectativa de vida promedio de 23.25** **años.** Por lo tanto, los S/.150,000 se dividen entre 279 meses (23.25 \12 meses), lo que es equivalente a una pensión de S/.537.7 mensuales.
+**La realidad es que teniendo en cuenta las probabilidades de vida de la tabla de mortalidad, un hombre de 65 años tiene una expectativa de vida promedio de 23.25** **años.** Por lo tanto, los S/.150,000 se dividen entre 279 meses (23.25 12 meses), lo que es equivalente a una pensión de S/.537.7 mensuales.
 
 ***
 
