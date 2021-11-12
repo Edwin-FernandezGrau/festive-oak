@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fragments of Iceland
+      value: El mito de los 110 años
     - name: 'twitter:description'
       value: >-
         Iceland is a Nordic country between the North Atlantic and the Arctic
