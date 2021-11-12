@@ -24,7 +24,7 @@ sections:
     posts_number: 2
     actions:
       - label: VER BLOG
-        url: '#'
+        url: /blog
         style: link
         icon_class: dev
         new_window: false
