@@ -20,7 +20,7 @@ sections:
         style: button
     title: ACERCA DE
   - title: BLOG
-    section_id: lorem-ipsum
+    section_id: recent-posts
     posts_number: 1
     actions: []
     type: section_posts
