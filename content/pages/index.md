@@ -20,7 +20,7 @@ sections:
         style: button
     title: ACERCA DE
   - title: BLOG
-    section_id: recent-posts
+    section_id: blog
     posts_number: 1
     actions: []
     type: section_posts
