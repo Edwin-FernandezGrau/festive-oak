@@ -30,7 +30,7 @@
             {
                 "label": "CONTACTO",
                 "url": "/style-guide",
-                "style": "link",
+                "style": "link"
             }
         ],
         "has_social": true,
