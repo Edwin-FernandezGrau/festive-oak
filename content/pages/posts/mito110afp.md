@@ -14,6 +14,7 @@ seo:
 layout: post
 thumb_img_path: /images/01-6a205be7.png
 content_img_path: /images/01-2d2b637a.png
+subtitle: Análisis sobres la tabla de mortalidad utilizada para calcular pensiones.
 ---
 ## Lorem ipsum
 
