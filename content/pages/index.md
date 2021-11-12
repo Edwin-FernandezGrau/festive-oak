@@ -25,7 +25,7 @@ sections:
     actions:
       - label: VER BLOG
         url: /blog
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
