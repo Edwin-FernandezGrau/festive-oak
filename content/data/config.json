@@ -23,16 +23,16 @@
                 "style": "link"
             },
             {
-                "label": "CONTACTO",
-                "url": "/style-guide",
+                "label": "BLOG",
+                "url": "/blog/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
             },
             {
-                "label": "BLOG",
-                "url": "/blog/",
+                "label": "CONTACTO",
+                "url": "/style-guide",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
