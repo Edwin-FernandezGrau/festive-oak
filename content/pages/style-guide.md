@@ -2,7 +2,7 @@
 title: CONVERSEMOS
 seo:
   title: Contacto
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Datos sobre canales de comunicación
   extra:
     - name: 'og:type'
       value: website
