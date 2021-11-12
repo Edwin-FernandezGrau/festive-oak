@@ -1,3 +1,4 @@
+---
 title: Blog
 seo:
   title: Blog
