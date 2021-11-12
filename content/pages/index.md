@@ -19,6 +19,11 @@ sections:
         url: /style-guide
         style: button
     title: ACERCA DE
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
 seo:
   title: BLID
   description: Cultura Digital
