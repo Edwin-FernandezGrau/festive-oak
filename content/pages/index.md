@@ -23,7 +23,7 @@ sections:
     section_id: recent-posts
     posts_number: 2
     actions:
-      - label: lorem-ipsum
+      - label: VER BLOG
         url: '#'
         style: link
         icon_class: dev
