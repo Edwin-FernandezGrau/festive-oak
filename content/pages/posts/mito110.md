@@ -21,8 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Se tiene la creencia que las AFP's y empresas aseguradoras calculan las
-  pensiones asumiendo que los ciudadanos vivirán hasta los 110 años
+        Se tiene la creencia que las AFP's y empresas aseguradoras calculan las pensiones asumiendo que los ciudadanos vivirán hasta los 110 años
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
