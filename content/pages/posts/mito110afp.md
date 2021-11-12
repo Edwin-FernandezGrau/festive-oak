@@ -34,4 +34,6 @@ En resumen, para el ejemplo analizado, el calculo de una pensión de jubilación
 
 
 
+
+
 ###### [**Edwin Fernandez Grau**](https://www.linkedin.com/in/edwin-fernandez-grau/)
