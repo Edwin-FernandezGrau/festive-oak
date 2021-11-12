@@ -10,7 +10,8 @@ content_img_path: /images/01-14732a25.png
 content_img_alt: 110 años
 seo:
   title: El mito de los 110 años
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  description: Se tiene la creencia que las AFP's y empresas aseguradoras calculan las
+  pensiones asumiendo que los ciudadanos vivirán hasta los 110 años
   extra:
     - name: 'og:type'
       value: article
