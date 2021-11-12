@@ -3,7 +3,9 @@ title: El mito de los 110 años
 date: '2021-05-04'
 thumb_img_alt: mito 110 años
 content_img_alt: mitos 110 años
-excerpt: lorem-ipsum
+excerpt: >-
+  Se tiene la creencia que las AFP's y empresas aseguradoras calculan las  
+  pensiones asumiendo que los ciudadanos vivirán hasta los 110 años.
 seo:
   title: ''
   description: ''
