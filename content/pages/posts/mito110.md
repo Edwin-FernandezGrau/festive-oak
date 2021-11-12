@@ -62,4 +62,4 @@ En resumen, para el ejemplo analizado, el calculo de una pensión de jubilación
 ***
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edwin-fernandez-grau" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/edwin-fernandez-grau?trk=profile-badge"></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edwin-fernandez-grau" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/edwin-fernandez-grau?trk=profile-badge">Edwin Fernández Grau</a></div>
