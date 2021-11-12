@@ -22,6 +22,7 @@ sections:
     title: ACERCA DE
   - section_id: recent-posts
     type: section_posts
+    title: BLOG
     posts_number: 4
     actions:
       - label: View Blog
