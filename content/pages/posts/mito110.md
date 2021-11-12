@@ -9,7 +9,7 @@ thumb_img_alt: 110 AÑOS
 content_img_path: /images/01-14732a25.png
 content_img_alt: 110 años
 seo:
-  title: Fragments of Iceland
+  title: El mito de los 110 años
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   extra:
     - name: 'og:type'
