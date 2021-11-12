@@ -19,7 +19,7 @@ sections:
         url: /style-guide
         style: button
     title: ACERCA DE
-  - title: lorem-ipsum
+  - title: BLOG
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
