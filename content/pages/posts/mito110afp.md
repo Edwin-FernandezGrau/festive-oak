@@ -1,5 +1,5 @@
 ---
-title: El mito de los 110 años
+title: reciente
 subtitle: lorem-ipsum
 date: '2021-11-12'
 thumb_img_alt: lorem-ipsum
