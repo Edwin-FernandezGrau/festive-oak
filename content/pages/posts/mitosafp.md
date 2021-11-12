@@ -37,11 +37,11 @@ Entonces, ¿cómo se calculan las pensiones? Consideremos un hombre de 65 años
 
 Sin embargo, **hay un segundo error en este conocido mito, no considera el valor del dinero en el tiempo, expresado en términos de la rentabilidad** **ofrecida por la AFP o empresa aseguradora.** El saldo ahorrado seguirá invirtiéndose y generando rentabilidad. Entonces, para ser justos con la comparación, se recalcula ambos modelos considerando una rentabilidad del 3%.
 
-\*\*\*
+***
 
 ![](/images/04-3ea32395.png)
 
-\*\*\*
+***
 
 En resumen, para el ejemplo analizado, el calculo de una pensión de jubilación bajo el mito de los 110 años y sin rentabilidad, implica recibir S/.493.5 menos de pensión cada mes. El mito te vende la idea que recibirás 271 soles mensuales de pensión cuando en realidad es 765 soles. Nótese que en apenas los 16 primeros años se habrá recibido en pensiones lo equivalente al monto que ahora se tiene ahorrado.
 
