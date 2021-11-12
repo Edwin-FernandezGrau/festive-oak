@@ -21,7 +21,7 @@ sections:
     title: ACERCA DE
   - title: BLOG
     section_id: lorem-ipsum
-    posts_number: 1
+    posts_number: 4
     actions: []
     type: section_posts
 seo:
@@ -51,5 +51,4 @@ seo:
       value: /images/BLID.gif
       relativeUrl: true
 layout: advanced
----
 ---
