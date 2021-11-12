@@ -25,6 +25,14 @@ sections:
     actions: []
     type: section_posts
     
+    section_id: recent-posts
+    type: section_posts
+    title: Recent Posts
+    posts_number: 4
+    actions:
+      - label: View Blog
+        url: blog/index.html
+        style: button
 seo:
   title: BLID
   description: Cultura Digital
