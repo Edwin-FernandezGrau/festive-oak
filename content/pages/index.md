@@ -32,7 +32,8 @@ sections:
     type: section_posts
 seo:
   title: BLID
-  description: Cultura Digital
+  description: |
+    Cultura Digital
   extra:
     - name: 'og:type'
       value: website
