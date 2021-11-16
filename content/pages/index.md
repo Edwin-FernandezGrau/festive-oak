@@ -32,9 +32,10 @@ sections:
     type: section_posts
 seo:
   title: BLID
-  description: |
+  description: |+
     Cultura Digital  ¦ 
     Edwin Fernández Grau
+
   extra:
     - name: 'og:type'
       value: website
