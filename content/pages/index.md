@@ -34,7 +34,7 @@ seo:
   title: BLID
   description: |
     Cultura Digital  ¦ 
-    Ed Fernández Grau
+    Edwin Fernández Grau
   extra:
     - name: 'og:type'
       value: website
