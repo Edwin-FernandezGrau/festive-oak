@@ -34,9 +34,7 @@ seo:
   title: BLID
   description: |
     Cultura Digital  ¦ 
-    Edwin Fernández Grau
-    Datos a tu alcance                           
-
+    Ed Fernández Grau           
     Business ¦ Leadership ¦ Innovation ¦ Digitization
   extra:
     - name: 'og:type'
