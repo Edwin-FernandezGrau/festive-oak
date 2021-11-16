@@ -15,13 +15,13 @@
                 "style": "link"
             },
             {
-                "label": "ACERCA DE",
-                "url": "/about/",
+                "label": "BLOG",
+                "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "BLOG",
-                "url": "/blog/",
+                "label": "ACERCA DE",
+                "url": "/about/",
                 "style": "link"
             },
             {
