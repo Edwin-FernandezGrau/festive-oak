@@ -35,6 +35,7 @@ seo:
   description: |
     Cultura Digital  ¦ 
     Edwin Fernández Grau
+    Datos a tu alcance                           
 
     Business ¦ Leadership ¦ Innovation ¦ Digitization
   extra:
