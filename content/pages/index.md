@@ -32,10 +32,11 @@ sections:
     type: section_posts
 seo:
   title: BLID
-  description: |
+  description: |+
     Cultura Digital  ¦ 
     Ed Fernández Grau           
     Business ¦ Leadership ¦ Innovation ¦ Digitization
+
   extra:
     - name: 'og:type'
       value: website
