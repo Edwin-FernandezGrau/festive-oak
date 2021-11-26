@@ -32,15 +32,9 @@ sections:
     type: section_posts
 seo:
   title: BLID
-  description: >+
-    Cultura Digital  ¦ 
+  description: |+
+    Información respecto a tópicos de finanzas, seguros e innovación.  
 
-    Ed Fernández Grau           
-
-    Business ¦ Leadership ¦ Innovation ¦ Digitization 
-
-    Compartimos información  respecto a tópicos de educación financiera, seguros
-    e ideas de innovación y su impacto en el mercado. 
 
   extra:
     - name: 'og:type'
