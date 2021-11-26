@@ -39,9 +39,8 @@ seo:
 
     Business ¦ Leadership ¦ Innovation ¦ Digitization 
 
-    Compartimos información en términos sencillos respecto a tópicos de
-    educación financiera y seguros. Así mismo, se comparte ideas de innovación y
-    su impacto en el mercado. 
+    Compartimos información  respecto a tópicos de educación financiera, seguros
+    e ideas de innovación y su impacto en el mercado. 
 
   extra:
     - name: 'og:type'
