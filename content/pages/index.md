@@ -33,7 +33,8 @@ sections:
 seo:
   title: BLID
   description: |+
-    Información respecto a tópicos de finanzas, seguros e innovación.  
+    Información respecto a tópicos de finanzas, seguros e innovación.          
+    Business ¦ Leadership ¦ Innovation ¦ Digitization ¦ By Edwin Fernández Grau 
 
 
   extra:
